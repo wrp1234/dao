@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: wu
+  datasource:
+    url: jdbc:mysql://localhost:3306/wu?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
